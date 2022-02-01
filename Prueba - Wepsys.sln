@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estadistica", "Estadistica\Estadistica.csproj", "{289053E5-439D-4DF3-A8BF-CAE1FACC3674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizz-Buzz", "Fizz-Buzz\Fizz-Buzz.csproj", "{29D0988A-9411-4678-BC98-2E36EBD5C8B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{289053E5-439D-4DF3-A8BF-CAE1FACC3674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289053E5-439D-4DF3-A8BF-CAE1FACC3674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289053E5-439D-4DF3-A8BF-CAE1FACC3674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289053E5-439D-4DF3-A8BF-CAE1FACC3674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D0988A-9411-4678-BC98-2E36EBD5C8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D0988A-9411-4678-BC98-2E36EBD5C8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D0988A-9411-4678-BC98-2E36EBD5C8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D0988A-9411-4678-BC98-2E36EBD5C8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B03A506E-40F4-4CAB-A324-2BE3782798F2}
+	EndGlobalSection
+EndGlobal
